@@ -86,9 +86,10 @@ Filter tersebut membantu pengguna melihat performa penjualan berdasarkan kategor
 
 | File | Deskripsi |
 |---|---|
-| `Dashboard.png` | Preview dashboard |
-| `Dashboard_Sales.twb` | File workbook Tableau |
-| `Dataset_Tableau_KarirNexMart_2025.xlsx Day 2.xlsx` | Dataset penjualan |
+| [Dashboard.png](Dashboard.png) | Preview dashboard |
+| [Dashboard_Sales.twb](Dashboard_Sales.twb) | File workbook Tableau |
+| [Dataset Excel](<Dataset_Tableau_KarirNexMart_2025.xlsx%20Day%202.xlsx>) | Dataset penjualan |
+
 
 ## Kesimpulan
 
