@@ -34,9 +34,9 @@ Klik gambar di bawah ini untuk melihat dashboard dalam ukuran lebih besar.
 
 Berdasarkan hasil analisis dashboard, diperoleh beberapa temuan utama sebagai berikut:
 
-1. **Revenue Performance:** Total revenue selama tahun 2025 mencapai **RpX**, dengan total profit sebesar **RpY**.
+1. **Revenue Performance:** Total revenue selama tahun 2025 mencapai **Rp773,03juta**, dengan total profit sebesar **Rp237,95juta**.
 
-2. **Sales Channel:** Channel dengan kontribusi revenue tertinggi adalah **X** sebesar **RpY**, sedangkan channel dengan kontribusi terendah adalah **X** sebesar **RpY**.
+2. **Sales Channel:** Channel dengan kontribusi revenue tertinggi adalah **Toko Offline** sebesar **RpY**, sedangkan channel dengan kontribusi terendah adalah **Toko Hijau** sebesar **RpY**.
 
 3. **City Performance:** Kota dengan revenue tertinggi adalah **X** sebesar **RpY**, menunjukkan kontribusi penjualan terbesar berasal dari wilayah tersebut.
 
