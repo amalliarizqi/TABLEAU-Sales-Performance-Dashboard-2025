@@ -36,13 +36,13 @@ Berdasarkan hasil analisis dashboard, diperoleh beberapa temuan utama sebagai be
 
 1. **Revenue Performance:** Total revenue selama tahun 2025 mencapai **Rp773,03juta**, dengan total profit sebesar **Rp237,95juta**.
 
-2. **Sales Channel:** Channel dengan kontribusi revenue tertinggi adalah **Toko Offline** sebesar **RpY**, sedangkan channel dengan kontribusi terendah adalah **Toko Hijau** sebesar **RpY**.
+2. **Sales Channel:** Channel dengan kontribusi revenue tertinggi adalah **Toko Offline** sebesar **Rp463,03juta**, sedangkan channel dengan kontribusi terendah adalah **Toko Hijau** sebesar **Rp141,13juta**.
 
-3. **City Performance:** Kota dengan revenue tertinggi adalah **X** sebesar **RpY**, menunjukkan kontribusi penjualan terbesar berasal dari wilayah tersebut.
+3. **City Performance:** Kota dengan revenue tertinggi adalah **Kota Jakarta** sebesar **Rp124,86 juta**, menunjukkan kontribusi penjualan terbesar berasal dari wilayah tersebut.
 
-4. **Product Performance:** Produk dengan revenue tertinggi adalah **X** sebesar **RpY**, sedangkan produk dengan profit ratio tertinggi adalah **X** sebesar **Y%**.
+4. **Product Performance:** Produk dengan revenue tertinggi adalah **Pembersih WAjah 100g** sebesar **Rp124,26juta**, dengan profit ratio tertinggi sebesar **39%**. Namun, produk ini memiliki rating rendah yaitu **3,88/10** sehingga perlu ditinjau kembali terkait kualitas produknya.
 
-5. **Product Rating:** Produk dengan rata-rata rating tertinggi adalah **X** dengan rating **Y/5**, dengan revenue sebesar **RpZ**.
+5. **Product Rating:** Produk dengan rata-rata rating tertinggi adalah **Minyak Goreng 1L** dengan rating **7,4/10**, dengan revenue sebesar **Rp120juta**. Namun, produk ini memiliki ratiio profit terendah yaitu **17%** sehingga perlu ditinjau kembali terkait harga jual produk.
 
 ## Dashboard Analysis
 
